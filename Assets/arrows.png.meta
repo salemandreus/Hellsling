@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ec457533e5fb08f419325ff6d53640c7
+timeCreated: 1498409248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arrowRight
+    21300002: arrowLeft
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrowRight
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrowLeft
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 14
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 53.5, y: 57.5}
+      - {x: 0.5, y: 6.5}
+      - {x: 7.219574, y: -4.5723114}
+      - {x: 69.5, y: -50.5}
+      - {x: 85.5, y: -50.5}
+      - {x: 144.5, y: -24.5}
+      - {x: 144.5, y: 33.5}
+      - {x: 87.5, y: 57.5}
+    - - {x: -100.5, y: 62.5}
+      - {x: -152.5, y: 37.5}
+      - {x: -152.5, y: -26.5}
+      - {x: -97.708115, y: -45.843918}
+      - {x: -78.1067, y: -45.843914}
+      - {x: -8.5, y: 5.5}
+      - {x: -8.947983, y: 14.09259}
+      - {x: -74.5, y: 62.5}
+    - - {x: -98.77779, y: -44.797173}
+      - {x: -98.77779, y: -41.66137}
+      - {x: -92.73016, y: -41.66137}
+      - {x: -92.73016, y: -44.797173}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
