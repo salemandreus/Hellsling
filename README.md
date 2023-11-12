@@ -15,8 +15,8 @@ A simple platformer game MVP I put together in **C#** and **Unity** at a mini ga
     * To **_push myself in a new domain_** within a **_7-8 hour game jam deadline_**.
  
 Thus:
-* ### The Main Goal:
-    * was **_not_** any character animations, levels or full-game effects.
+* ### The Main Goals:
+    * were **_not_** extraneous details like any character animations, levels or full-game effects or any starting or finishing animations.
       
   but rather:
     * some **_very basic_ placeholder art**.
@@ -26,4 +26,4 @@ Thus:
     * doing this all **_within the deadline_**.
 
  * ### My Overall Vision:
-    * Implementing something with the **feeling** of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ feel,  with more precision jumping than speeding required.
+    * Implementing something _**quickly**_ with the _**feeling**_ of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ feel,  with more precision jumping than speeding required.
