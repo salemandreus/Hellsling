@@ -26,4 +26,4 @@ Thus:
     * doing this all **_within the deadline_**.
 
  * ### My Overall Vision:
-    * Implementing something with the immersive **feeling** of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ platformer game feel, albeit with more precision jumping than speeding required.
+    * Implementing something with the **feeling** of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ feel,  with more precision jumping than speeding required.
