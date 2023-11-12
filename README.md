@@ -3,13 +3,14 @@
 A simple platformer game MVP I put together in **C#** and **Unity** at a mini game jam within a **7-hour deadline**.
 
 #### This Was A Personal Challenge
- - To <ins>put together a game from scratch within 7 hours</ins> while simultaneously better <ins>familiarising myself with Unity game development</ins>.
+ - To _**put together a game from scratch within 7 hours**_
+ - To _**better familiarise myself with Unity game development**_.
 <br>
 
 ## Important Notes: 
 
 * ### As this was a *Timeboxed* Challenge:
-  I purposefully <ins>have not improved on it since it was developed</ins>.
+  I purposefully **_have not improved on it since it was developed_**.
 
 * ### The Challenge:
     * To **_push myself in a new domain_** within a **_7-8 hour game jam deadline_**.
@@ -26,4 +27,4 @@ Thus:
     * doing this all **_within the deadline_**.
 
  * ### My Overall Vision:
-    * Implementing something _**quickly**_ with the _**feeling**_ of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ feel,  with more precision jumping than speeding required.
+    * Implementing something _**quickly**_ with the _**feeling**_ of playing a game like _Jazz Jackrabbit™_. <br><br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ feel,  with more precision jumping than speeding required.
