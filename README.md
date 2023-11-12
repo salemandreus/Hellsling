@@ -1,12 +1,29 @@
-## Platformer Game MVP (7-hour Jam):
-#### A personal Challenge
-A simple platformer game I put together in C# and Unity at a mini game jam - I was quite proud of it because I managed to put it together from scratch within 7 hours while better familiarising myself with Unity game development at the same time.
+# Platformer Game MVP (7-hour Jam):
 
-#### Note: This Was A *Timeboxed* Challenge
+A simple platformer game MVP I put together in **C#** and **Unity** at a mini game jam within a **7-hour deadline**.
+
+#### This Was A Personal Challenge
+ - To <ins>put together a game from scratch within 7 hours</ins> while simultaneously better <ins>familiarising myself with Unity game development</ins>.
+<br>
+
+## Important Notes: 
+
+* ### As this was a *Timeboxed* Challenge:
+  I purposefully <ins>have not improved on it since it was developed</ins>.
+
+* ### The Challenge:
+    * To **_push myself in a new domain_** within a **_7-8 hour game jam deadline_**.
+ 
 Thus:
-* <ins>I purposefully have not improved on it since it was developed</ins>.
+* ### The Main Goal:
+    * was **_not_** any character animations, levels or full-game effects.
+      
+  but rather:
+    * some **_very basic_ placeholder art**.
+    * adding **basic platformer game mechanics** - jumping and some solid platforms, relevant physics and transforms.
+    * adding **parallax** a.k.a **2.5D**.
+    * implementing **basic camerawork** - including camera-slide/drag when running or stopping suddenly.
+    * doing this all **_within the deadline_**.
 
-* The goal was to push myself and demonstrate my development in a **_new domain_** within a **_7-8 hour game jam deadline_**.
-* Thus the main goal was **_not animations or levels_**, but implementing **basic camerawork** and **game mechanics _within the deadline_**.
-
-<ins>Regarding the camerawork</ins>: I concentrated specifically on integrating a certain feel with camera-slide/drag when running or stopping suddenly (which admittedly is more optimal for the feel of a game such as Sonic the Hedgehog with a fair amount of running and less optimal for a precision jump-intensive game like this one, but experimenting outside of the box is fun!)
+ * ### My Overall Vision:
+    * Implementing something with the immersive **feeling** of playing a game like _Jazz Jackrabbit™_. <br> Or, if that's unfamiliar, more like the old _Sonic The Hedgehog™_ platformer game feel, albeit with more precision jumping than speeding required.
